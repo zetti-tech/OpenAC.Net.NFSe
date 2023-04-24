@@ -200,6 +200,9 @@
 			<Pack>True</Pack>
 			<PackagePath>content\Schemas\SIAPNet</PackagePath>
 		</None>
+		<None Update="Schemas\ISSNet4\xmldsig-core-schema20020212.xsd">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
 	</ItemGroup>
 	
 	<ItemGroup>
